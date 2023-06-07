@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hellow World!
+title: Hello World!
 subtitle: Here we go again ...
 tags: [blog]
 comments: false
