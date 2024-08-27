@@ -1,12 +1,12 @@
 ---
 layout: post
-title: EMR Cross Account Access to Iceberg Tables
+title: Spark on EMR Serverless Cross-Account Access to Iceberg Tables
 subtitle: Learn how to access Iceberg tables from EMR in another account
 tags: [blog]
 comments: false
 ---
 
-A few weeks ago, I was working on a project where I had to access Iceberg tables from an EMR cluster in another account. I found it a bit tricky to set up, so I decided to write this post to help others who might be facing the same issue.
+A few weeks ago, I was working on a project where I had to access Iceberg tables from a Spark job running on EMR cluster in another account. I found it a bit tricky to set up, so I decided to write this post to help others who might be facing the same issue.
 
 If you follow the EMR documentation on how to access Iceberg tables you're going to find the following `spark-submit` parameters recommendation:
 
