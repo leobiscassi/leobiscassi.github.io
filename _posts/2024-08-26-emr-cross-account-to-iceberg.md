@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spark on EMR Serverless Cross-Account Access to Iceberg Tables
-subtitle: Learn how to access Iceberg tables from EMR in another account
+title: EMR Serverless Cross-Account Access to Iceberg Tables
+subtitle: Learn how to make your Iceberg tables available for spark jobs running cross-account on EMR Serverless
 tags: [blog]
 comments: false
 ---
